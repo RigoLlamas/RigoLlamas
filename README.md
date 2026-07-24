@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=>_Hola,+soy+Luis+Rigoberto;>_Software+Developer;" alt="Nombre" />
-    <br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=A1A1AA&center=true&vCenter=true&width=800&lines=Especializado+en+sistemas+y+bajo+nivel;Estudiante+de+Ingeniería+en+ITESO;Apasionado+por+la+lógica+algorítmica;" alt="Educación" />
+    <br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=A1A1AA&center=true&vCenter=true&width=800&lines=Especializado+en+sistemas+y+bajo+nivel;Estudiante+de+Ingenier%C3%ADa+en+ITESO;Apasionado+por+la+l%C3%B3gica+algor%C3%ADtmica;" alt="Educación" />
     <br><br><b><span style="color: #94A3B8; font-size: 20px">C | C++ | Java | Python | Rust | PHP</span></b>
   </p>
 </div>

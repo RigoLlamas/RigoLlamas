@@ -74,6 +74,6 @@ Diseño y desarrollo de un prototipo de brazo robótico con control neuronal, in
 ---
 
 <div align="center">
-  <img src="assets/PatoGit.png" width="100" alt="Rubber Duck Debugging" />
+  <img src="assets/PatoGit.png" width="100" style="border-radius: 50%;" alt="Rubber Duck Debugging" />
   <p><i>"Rubber duck debugging en proceso. Resolviendo problemas de hardware y software paso a paso."</i></p>
 </div>

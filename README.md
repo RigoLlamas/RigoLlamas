@@ -1,7 +1,11 @@
+<div align="right">
+  <b>🌍 English</b> | <a href="README-es.md">Español</a>
+</div>
+
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=>_Hola,+soy+Luis+Rigoberto;>_Software+Developer;" alt="Nombre" />
-    <br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=A1A1AA&center=true&vCenter=true&width=800&lines=Especializado+en+sistemas+y+bajo+nivel;Estudiante+de+Ingenier%C3%ADa+en+ITESO;Apasionado+por+la+l%C3%B3gica+algor%C3%ADtmica;" alt="Educación" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=>_Hello,+I'm+Luis+Rigoberto;>_Software+Developer;" alt="Name" />
+    <br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=A1A1AA&center=true&vCenter=true&width=800&lines=Specialized+in+systems+and+low-level;Engineering+Student+at+ITESO;Passionate+about+algorithmic+logic;" alt="Education" />
     <br><br><b><span style="color: #94A3B8; font-size: 20px">C | C++ | Java | Python | Rust | PHP</span></b>
   </p>
 </div>
@@ -10,8 +14,8 @@
 
 <p align="center">
   <b>Software Developer | Systems & Algorithms | Hardware Integration</b><br/>
-  Diseño y desarrollo de software eficiente, desde lógica algorítmica hasta aplicaciones de escritorio ligeras.<br/>
-  Actualmente cursando Ingeniería en Desarrollo de Software en el Tecnológico y de Estudios Superiores de Occidente (ITESO).
+  Design and development of efficient software, from algorithmic logic to lightweight desktop applications.<br/>
+  Currently pursuing a B.S. in Software Development Engineering at the Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO).
 </p>
 
 <p align="center">
@@ -24,50 +28,50 @@
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" />
 </p>
 
-## Lo que hago
+## What I Do
 
-- Implementación de estructuras de datos y algoritmos complejos.
-- Programación a bajo y alto nivel (desde C, C++ hasta Java/Python/PHP).
-- Desarrollo de aplicaciones de escritorio ligeras y multiplataforma.
-- Integración de sistemas de hardware y software.
-- Resolución de problemas de lógica matemática y optimización.
+- Implementation of complex data structures and algorithms.
+- Low and high-level programming (from C, C++ to Java/Python/PHP).
+- Development of cross-platform, lightweight desktop applications.
+- Hardware and software systems integration.
+- Resolution of mathematical logic and optimization problems.
 
-## Stack Tecnológico
+## Tech Stack
 
-| Área | Tecnologías |
+| Area | Technologies |
 |------|--------------|
-| Lenguajes | C • C++ • Java • Python • Rust • PHP • Bash |
+| Languages | C • C++ • Java • Python • Rust • PHP • Bash |
 | Frameworks / Tools | Tauri • Antigravity  • Amazon Web Services | 
-| Intereses | Sistemas Distribuidos • Desarrollo Web y de Aplicaciones |
+| Interests | Distributed Systems • Web and Application Development |
 
-## Proyectos Destacados
+## Featured Projects
 
-### Traductor y Decodificador de Instrucciones RISC-V
+### RISC-V Instruction Translator and Decoder
 C
-- Sistema que lee código máquina en formato hexadecimal, lo convierte a binario y extrae los campos correspondientes a la arquitectura RISC-V.
-- Implementa la identificación de opcodes y decodificación de formatos R, I, S, B, U y J, incluyendo el cálculo del valor inmediato (imm).
-- Soporta la lectura de instrucciones directamente desde la terminal o mediante archivos externos.
+- System that reads machine code in hexadecimal format, converts it to binary, and extracts fields corresponding to the RISC-V architecture.
+- Implements opcode identification and decoding of R, I, S, B, U, and J formats, including immediate (imm) value calculation.
+- Supports reading instructions directly from the terminal or via external files.
 
-### Gestor de Finanzas Personales
+### Personal Finance Manager
 Java
-- Aplicación para el control de gastos e ingresos, con enfoque en estructuras de datos eficientes.
+- Application for tracking expenses and income, focusing on efficient data structures.
 
-### Sistema de Gestión de Pedidos
-C++ • Algoritmia
-- Integración del algoritmo de Dijkstra para optimización de rutas.
-- Proyecto desarrollado durante la etapa como Tecnólogo en Desarrollo de Software (CETI).
+### Order Management System
+C++ • Algorithmic Logic
+- Integration of Dijkstra's algorithm for route optimization.
+- Project developed during my studies as a Software Development Technologist (CETI).
 
-## Logros y Competencias
+## Achievements & Competitions
 
-**1er Lugar — Competencia de Programación Algorítmica Interna**  
-Competencia institucional en ITESO, demostrando habilidades avanzadas en resolución de problemas bajo presión.
+**1st Place — Internal Algorithmic Programming Competition**  
+Institutional competition at ITESO, demonstrating advanced problem-solving skills under pressure.
 
-**2do Lugar (Cat. Discapacidad) / 3er Lugar General — Reto Maker**  
-Diseño y desarrollo de un prototipo de brazo robótico con control neuronal, involucrando la innovación e integración de hardware/software.
+**2nd Place (Disability Cat.) / 3rd Place Overall — Reto Maker**  
+Design and development of a neural-controlled robotic arm prototype, involving innovation and hardware/software integration.
 
-## Contacto
+## Contact
 
-- Ubicación: **Guadalajara, Jalisco, México**
+- Location: **Guadalajara, Jalisco, Mexico**
 - Email: **[rigo.llamas77@gmail.com](mailto:rigo.llamas77@gmail.com)**
 - LinkedIn: **[Luis Rigoberto Ramírez Llamas](https://www.linkedin.com/in/luis-rigoberto-ramirez-llamas/)**
 
@@ -75,5 +79,5 @@ Diseño y desarrollo de un prototipo de brazo robótico con control neuronal, in
 
 <div align="center">
   <img src="assets/PatoGit.png" width="100" style="border-radius: 50%;" alt="Rubber Duck Debugging" />
-  <p><i>"Rubber duck debugging en proceso. Resolviendo problemas de hardware y software paso a paso."</i></p>
+  <p><i>"Rubber duck debugging in progress. Solving hardware and software problems step by step."</i></p>
 </div>
